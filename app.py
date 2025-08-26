@@ -68,7 +68,7 @@ def export_kb_json(pairs: List[Tuple[str, str]]) -> bytes:
 # App UI
 # -----------------------------
 st.set_page_config(page_title="Q&A Chatbot – Knowledge Companion", page_icon="💬")
-st.title("💬 Q&A Chatbot – Knowledge Companion (Prototype)")
+st.title("💬 Hello AI (Prototype)")
 
 # Sidebar: info + KB management
 with st.sidebar:
